@@ -1,7 +1,7 @@
 # 💫 About Me
-👋 Hi, I’m **M. Harish Reddy** — a **B.Tech CSE ’27** student and passionate **Frontend Developer**.  
+👋 Hi, I’m **K.Vishnuvardan reddy** — a **B.Tech CSE ’27** student and passionate **Frontend Developer**.  
 🎯 **Google Arcade Cohort 1 — Completed 2025**  
-🌐 Web Development Enthusiast | 📊 DSA Learner | 📄 Research Paper Aspirant in ML | 🚀 Always building projects and learning something new every day.  
+🌐 Web Development Enthusiast| 🚀 Always building projects and learning something new every day.  
 
 ---
 ## 💻 Tech Stack
@@ -30,19 +30,3 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/harishreddy995/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/harishreddy_bobby/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode" />
-  </a>
-  <a href="mailto:mharishreddy995@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" />
-  </a>
-  <a href="https://github.com/harishreddy-bobby" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-  </a>
-</p>
