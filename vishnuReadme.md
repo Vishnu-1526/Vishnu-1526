@@ -15,18 +15,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishreddy-bobby&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishreddy-bobby&theme=radical&hide_border=false" height="180" />
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishreddy-bobby&theme=radical&hide_border=false&layout=compact" height="180" />
-</p>
-
----
