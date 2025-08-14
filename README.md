@@ -34,13 +34,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/harishreddy995/" target="_blank">
+  <a href="https://www.linkedin.com/in/k-vishnu-vardhan-reddy-15596a301/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/harishreddy_bobby/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" alt="LeetCode" />
-  </a>
-  <a href="mailto:mharishreddy995@gmail.com" target="_blank">
+  <a href="mailto:vardhan.koripally@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="50" alt="Email" />
   </a>
   <a href="https://github.com/Vishnu-1526" target="_blank">
