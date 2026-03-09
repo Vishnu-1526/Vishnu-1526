@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m **K. Vishnu Vardhan Reddy** — a **B.Tech CSE ’27** student and passionate **Frontend Developer **.  
+👋 Hi, I’m **K. Vishnu Vardhan Reddy** — a **B.Tech CSE ’27** student and passionate ** Developer **.  
 🎯 **Google Arcade Cohort 1 — Completed 2025**  
 🌐 AIML Enthusiast | 📊 DSA Learner | 🚀 Always building projects and learning something new every day.  
 
